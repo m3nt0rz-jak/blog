@@ -1,0 +1,13 @@
+baseURL = 'https://hugoblogapp.com'
+languageCode = 'en-us'
+title = 'M3NT0RZ BLOG'
+
+paginate = 4
+
+[params]
+  description = "m3nt0rz community blog"
+  dateFormat = "02 Jan 2006"
+
+[taxonomies]
+  category = "categories"
+  author = "authors"
