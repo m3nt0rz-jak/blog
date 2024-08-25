@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://m3nt0rz.github.io/authors/</loc>
+    <loc>https://m3nt0rz.github.io/blog/authors/</loc>
     <lastmod>2024-08-12T03:25:24+01:00</lastmod>
   </url><url>
-    <loc>https://m3nt0rz.github.io/categories/</loc>
+    <loc>https://m3nt0rz.github.io/blog/categories/</loc>
     <lastmod>2024-08-12T03:25:24+01:00</lastmod>
   </url><url>
-    <loc>https://m3nt0rz.github.io/categories/ctf/</loc>
+    <loc>https://m3nt0rz.github.io/blog/categories/ctf/</loc>
     <lastmod>2024-08-12T03:25:24+01:00</lastmod>
   </url><url>
-    <loc>https://m3nt0rz.github.io/ha-forensics-walkthrough/</loc>
+    <loc>https://m3nt0rz.github.io/blog/ha-forensics-walkthrough/</loc>
     <lastmod>2024-08-12T03:25:24+01:00</lastmod>
   </url><url>
-    <loc>https://m3nt0rz.github.io/authors/m3nt0rz/</loc>
+    <loc>https://m3nt0rz.github.io/blog/authors/m3nt0rz/</loc>
     <lastmod>2024-08-12T03:25:24+01:00</lastmod>
   </url><url>
-    <loc>https://m3nt0rz.github.io/</loc>
+    <loc>https://m3nt0rz.github.io/blog/</loc>
     <lastmod>2024-08-12T03:25:24+01:00</lastmod>
   </url><url>
-    <loc>https://m3nt0rz.github.io/categories/tech/</loc>
+    <loc>https://m3nt0rz.github.io/blog/categories/tech/</loc>
     <lastmod>2024-08-12T03:25:24+01:00</lastmod>
   </url><url>
-    <loc>https://m3nt0rz.github.io/symfonos-ctdf-walkthrough/</loc>
+    <loc>https://m3nt0rz.github.io/blog/symfonos-ctdf-walkthrough/</loc>
     <lastmod>2024-08-12T02:27:24+01:00</lastmod>
   </url><url>
-    <loc>https://m3nt0rz.github.io/categories/general/</loc>
+    <loc>https://m3nt0rz.github.io/blog/categories/general/</loc>
     <lastmod>2024-08-12T02:21:24+01:00</lastmod>
   </url><url>
-    <loc>https://m3nt0rz.github.io/test/</loc>
+    <loc>https://m3nt0rz.github.io/blog/test/</loc>
     <lastmod>2024-08-12T02:21:24+01:00</lastmod>
   </url><url>
-    <loc>https://m3nt0rz.github.io/welcome-to-m3nt0rz/</loc>
+    <loc>https://m3nt0rz.github.io/blog/welcome-to-m3nt0rz/</loc>
     <lastmod>2024-08-12T02:21:24+01:00</lastmod>
   </url>
 </urlset>
