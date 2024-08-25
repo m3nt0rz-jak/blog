@@ -13,8 +13,3 @@ avatar = "/images/m3nt0rz avatar.webp"
 This is my HTA forensics Ctf walkthrough. 
 
 {{< youtube "VWp7uqzx12M" "Kali Forensics CTF (Part 1)" >}}
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VWp7uqzx12M?si=6iTpGk-KdiTSwKLD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
