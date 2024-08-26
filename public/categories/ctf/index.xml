@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ctf on M3NT0RZ BLOG</title>
+    <link>/categories/ctf/</link>
+    <description>Recent content in Ctf on M3NT0RZ BLOG</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Aug 2024 03:25:24 +0100</lastBuildDate>
+    <atom:link href="/categories/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HA forensics Ctf walkthrough </title>
+      <link>/ha-forensics-walkthrough/</link>
+      <pubDate>Mon, 12 Aug 2024 03:25:24 +0100</pubDate>
+      <guid>/ha-forensics-walkthrough/</guid>
+      <description>This is my HTA forensics Ctf walkthrough.</description>
+    </item>
+    <item>
+      <title>Symfonos CTF Walkthrough</title>
+      <link>/symfonos-ctdf-walkthrough/</link>
+      <pubDate>Mon, 12 Aug 2024 02:27:24 +0100</pubDate>
+      <guid>/symfonos-ctdf-walkthrough/</guid>
+      <description>CTF Symfonos Content&#xA;Step 1) ifconfig&#xA;ip address of our local machine (Kali Linux)&#xA;root@kali:~# ifconfig&#xA;eth0: flags=4163&amp;lt;UP,BROADCAST,RUNNING,MULTICAST&amp;gt; mtu 1500 inet 192.168.148.131 netmask 255.255.255.0 broadcast 192.168.148.255 inet6 fe80::2d94:3836:a948:16a6 prefixlen 64 scopeid 0x20&amp;lt;link&amp;gt; ether 00:0c:29:27:f4:5c txqueuelen 1000 (Ethernet) RX packets 389 bytes 53422 (52.1 KiB) RX errors 0 dropped 0 overruns 0 frame 0 TX packets 27 bytes 2168 (2.1 KiB) TX errors 0 dropped 0 overruns 0 carrier 0 collisions 0 device interrupt 19 base 0x2000 My Kali Linux Local ip address: 192.</description>
+    </item>
+  </channel>
+</rss>

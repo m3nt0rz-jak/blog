@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on M3NT0RZ BLOG</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on M3NT0RZ BLOG</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Aug 2024 03:25:24 +0100</lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ctf</title>
+      <link>/categories/ctf/</link>
+      <pubDate>Mon, 12 Aug 2024 03:25:24 +0100</pubDate>
+      <guid>/categories/ctf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>/categories/tech/</link>
+      <pubDate>Mon, 12 Aug 2024 03:25:24 +0100</pubDate>
+      <guid>/categories/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General</title>
+      <link>/categories/general/</link>
+      <pubDate>Mon, 12 Aug 2024 02:21:24 +0100</pubDate>
+      <guid>/categories/general/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
